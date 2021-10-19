@@ -34,7 +34,7 @@ files:
     status: Solved
     encrypted_possible_answer: 25
   - offset: 179
-    length: 21
+    length: 63
     placeholder_text: '...  # TODO общее количество символов в книге'
     initial_state:
       length: 45
@@ -43,8 +43,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: pages * lines * chars
-  - offset: 215
-    length: 64
+  - offset: 257
+    length: 47
     placeholder_text: '...  # TODO размер одной книги в байтах'
     initial_state:
       length: 39
@@ -53,8 +53,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: total_chars * BYTES_ONE_CHAR
-  - offset: 293
-    length: 48
+  - offset: 318
+    length: 50
     placeholder_text: '...  # TODO размер дискеты в байтах'
     initial_state:
       length: 35
@@ -63,7 +63,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: '1.44 * 1024 * 1024  # размер в байтах'
-  - offset: 349
+  - offset: 376
     length: 86
     placeholder_text: '...)  # TODO найти количество книг, которое поместится на дискете'
     initial_state:
@@ -101,5 +101,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 07 Oct 2021 17:33:06 UTC
+  time: Tue, 19 Oct 2021 16:24:40 UTC
 record: -1

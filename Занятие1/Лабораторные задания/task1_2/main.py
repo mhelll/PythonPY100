@@ -1,11 +1,9 @@
 # Напишите ваше решение
 NALOG = 13
 
-oklad = int(input("Размер оклада: "))
+oklad = int(input('Введите размер оклада: '))
+pod_nal = oklad / 100 * NALOG
+na_ruki = oklad - pod_nal
 
-razmernaloga = oklad // 100 * NALOG
-print("Подоходный налог: ", razmernaloga)
-
-naruki = oklad - razmernaloga
-print("Зарплата на руки: ",naruki)
-
+print('Размер подоходного налога:', pod_nal)
+print('Размер зарплаты за вычетом подоходного налога:', na_ruki)

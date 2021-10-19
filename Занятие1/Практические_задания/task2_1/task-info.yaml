@@ -13,7 +13,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'input("Введите строку Hello World: ")'
-  - offset: 131
+  - offset: 130
     length: 82
     placeholder_text: '# TODO c помощью функции print рачпечатайте значение переменной
       input_str и её тип'
@@ -21,7 +21,7 @@ files:
       length: 82
       offset: 67
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: print(input_str, type(input_str))
   text: |
@@ -40,5 +40,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 07 Oct 2021 17:09:19 UTC
+  time: Tue, 19 Oct 2021 16:12:08 UTC
 record: -1

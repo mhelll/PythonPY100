@@ -17,7 +17,7 @@ files:
     status: Solved
     encrypted_possible_answer: '"Hello World"'
   - offset: 70
-    length: 19
+    length: 83
     placeholder_text: '# TODO с помощью функции print распечатать переменную my_variable'
     initial_state:
       length: 65
@@ -33,6 +33,6 @@ files:
   learner_created: false
 status: Solved
 feedback:
-  time: Thu, 07 Oct 2021 16:51:25 UTC
+  time: Tue, 19 Oct 2021 16:06:32 UTC
 record: -1
 post_submission_on_open: true

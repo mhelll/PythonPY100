@@ -3,8 +3,8 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 17
-    length: 88
+  - offset: 15
+    length: 90
     placeholder_text: '...  # TODO используя оператор целочисленного деления найти
       количество десятков'
     initial_state:
@@ -15,7 +15,7 @@ files:
     status: Solved
     encrypted_possible_answer: number // 10
   - offset: 110
-    length: 82
+    length: 81
     placeholder_text: '...  # TODO используя оператор остаток от деления найти количество
       единиц'
     initial_state:
@@ -25,7 +25,7 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: number % 10
-  - offset: 212
+  - offset: 211
     length: 65
     placeholder_text: '...)  # TODO вычисления можно производить прямо в функции print'
     initial_state:
@@ -56,5 +56,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 07 Oct 2021 17:26:23 UTC
+  time: Tue, 19 Oct 2021 16:18:29 UTC
 record: -1

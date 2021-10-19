@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 8
-    length: 76
+    length: 73
     placeholder_text: '...  # TODO список целых чисел от 50 до 100 включительно'
     initial_state:
       length: 56
@@ -29,5 +29,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 14 Oct 2021 16:59:46 UTC
+  time: Tue, 19 Oct 2021 20:16:23 UTC
 record: -1

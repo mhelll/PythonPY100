@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 57
+    length: 83
     placeholder_text: '...  # TODO найти количество натуральных чисел кратных 23'
     initial_state:
       length: 57
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       start = 123
       end = 9999
@@ -29,5 +29,8 @@ files:
   text: |
     430
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 19 Oct 2021 21:43:12 UTC
 record: -1

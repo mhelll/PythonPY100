@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 27
-    length: 32
+    length: 31
     placeholder_text: ' # TODO найти число сотен'
     initial_state:
       length: 25
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: // 100
-  - offset: 73
-    length: 39
+  - offset: 72
+    length: 38
     placeholder_text: '# TODO найти число десятков'
     initial_state:
       length: 27
@@ -23,8 +23,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: '% 100 // 10'
-  - offset: 126
-    length: 30
+  - offset: 124
+    length: 29
     placeholder_text: '# TODO найти число единиц'
     initial_state:
       length: 25
@@ -33,7 +33,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: '% 10'
-  - offset: 171
+  - offset: 168
     length: 49
     placeholder_text: '...  # TODO сформировать список чисел'
     initial_state:
@@ -43,7 +43,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: '[d_1, d_2, d_3]'
-  - offset: 260
+  - offset: 257
     length: 35
     placeholder_text: '...)  # TODO сумма цифр'
     initial_state:
@@ -53,7 +53,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: sum(list_digit))
-  - offset: 321
+  - offset: 318
     length: 40
     placeholder_text: '...)  # TODO количество цифр'
     initial_state:
@@ -63,7 +63,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: len(list_digit))
-  - offset: 389
+  - offset: 386
     length: 42
     placeholder_text: '...)  # TODO минимальная цифра'
     initial_state:
@@ -73,7 +73,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: min(list_digit))
-  - offset: 460
+  - offset: 457
     length: 43
     placeholder_text: '...)  # TODO максимальная цифра'
     initial_state:
@@ -113,5 +113,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 07 Oct 2021 17:42:07 UTC
+  time: Tue, 19 Oct 2021 16:32:10 UTC
 record: -1

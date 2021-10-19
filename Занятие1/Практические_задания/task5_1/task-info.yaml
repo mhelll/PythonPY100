@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 20
-    length: 44
+    length: 45
     placeholder_text: '# TODO поменяйте значения местами'
     initial_state:
       length: 33
@@ -32,5 +32,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 07 Oct 2021 17:59:43 UTC
+  time: Tue, 19 Oct 2021 20:49:42 UTC
 record: -1

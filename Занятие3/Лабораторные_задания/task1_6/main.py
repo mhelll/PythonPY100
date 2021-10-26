@@ -1,4 +1,4 @@
-def pow_func(a, b):
+def pow_func(, ):
 
 
 
